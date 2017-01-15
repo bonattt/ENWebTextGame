@@ -1,0 +1,72 @@
+
+body {
+    background-color: black;
+}
+
+.textarea {
+    background-image: url("../images/tile-parchment.png");
+	text-align: left;
+	
+	position: absolute;
+	
+	top: 200px;
+	left: 13%;
+	
+	width: 33%;
+	
+	border: 1px solid #404040;
+	border-radius: 25px;
+	
+	padding: 5%;
+}
+
+.tip-header{
+	margin-bottom: -10pt;
+}
+
+#character-window {
+	text-align: left;
+	position: absolute;
+	
+	left: 49.5%;
+	top: 225px;
+	width: 16%;
+	
+	background-color: white;
+	
+	border: 7px solid gray;
+	
+	padding-left: 1%;
+	padding-right: 1%;
+}
+
+.stat-name {
+	text-align: center;
+}
+
+#side-bar-right {	
+	position: relative;
+	
+	color: red;
+	text-align: justify;
+	left: 75%;
+	top: 171px;
+	width: 23.35%;
+	
+	border-left: 1px solid lightgray;
+	border-radius: 6px;
+	
+	padding-left: 1%;
+	padding-right: 1%;
+}
+
+.banner {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+
+	background-color: #404040;
+	width: 100%;
+	height: 175px;
+}
+

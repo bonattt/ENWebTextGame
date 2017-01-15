@@ -1,0 +1,2 @@
+powershell screen width = 74
+PS C:\Users\bonattt\Documents\personal\Programing\ENwebAPI\textGameServer>

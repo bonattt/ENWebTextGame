@@ -1,0 +1,10 @@
+express <proj name> --hogan
+
+npm install mongoose
+npm install nodemon
+npm install
+
+==================================
+
+DEBUG=my-application ./bin/www
+node ./bin/www

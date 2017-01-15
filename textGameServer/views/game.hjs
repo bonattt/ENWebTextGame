@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <!-- bootstrap -->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" />
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    
+        <!-- internal css -->
+        <title> {{ title }} </title>
+        <link rel='stylesheet' href='/stylesheets/game.css' />
+        <link rel='stylesheet' href='/stylesheets/style.css' />
+    </head>
+    <body>
+        <div class="banner">
+			<img src="../images/EN-banner-small.png"/>
+		</div>
+        
+        <div class="textarea">  </div>
+        
+		<div id="character-window">
+			<h2> Character </h2>
+			<div id="characterStats">  </div>
+		</div>
+        
+       <!-- <div id="side-bar-right">
+			<h2> Tips </h2>
+			
+			<h3  class="tip-header"> Body </h3>
+			<p class="tip-body"> Strength and Endurance. Used for brute force
+					and melee combat. </p>
+			<hr size=1 color=lightgray>
+			
+			<h3  class="tip-header"> Dexterity </h3>
+			<p class="tip-body"> Your character's quickness and agility.
+					Stealth skills, ranged combat all rely on dexterity. </p>
+			<hr size=1 color=lightgray>			
+			
+			<h3 class="tip-header"> Willpower </h3>
+			<p class="tip-body"> Willpower is used for resisting magic effects
+					and effects that cause sanity damage. </p>
+			<hr size=1 color=lightgray>
+			
+			<h3  class="tip-header"> Intelligence </h3>
+			<p class="tip-body"> Intelligence represents your character's
+					knowledge and cunning. </p>
+			<hr size=1 color=lightgray>
+				
+			<h3  class="tip-header"> Charisma </h3>
+			<p class="tip-body" style="dislplay: none"> Charm and/or good looks.
+					Charisma is necessary to get your foot in the door in social
+					challenges, and usually helps overcome them.
+					 </p>
+			<hr size=1 color=lightgray>
+			
+			<h3  class="tip-header"> Saving </h3>
+			<p class="tip-body">
+                Saving requires you to save your character to
+				a JSON file and download it. Then you reupload it, and
+				continue from there. I'm hardly an ace webdeveloper. Quite
+				the opposite, really, my strength is in design and writing.
+				And I'm doing this all by my lonesome. And for free! So the
+				point is you get what you paid for, and probably more. Plus,
+				if you're smart, you could cheat pretty hard by editing your
+				save file, but I don't see much point in that, really.
+            </p>
+		</div> -->
+    </body>
+    <!-- scripts -->
+    
+    
+</html>

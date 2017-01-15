@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> {{ title }} </title>
+        <link rel='stylesheet' href='/stylesheets/style.css' />
+    </head>
+    <body>
+        <div class="content">
+            <h1> {{ eventTitle }} </h1>
+            <p> {{ eventText }} </p>
+            <hr size=2 color="black"/>
+        </div>
+    </body>
+</html>
